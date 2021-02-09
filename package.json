@@ -1,0 +1,24 @@
+{
+  "name": "cc-v-2",
+  "version": "1.0.0",
+  "description": "Social media project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JDMartinez1531/cc-v-2.git"
+  },
+  "author": "Joshua Martinez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JDMartinez1531/cc-v-2/issues"
+  },
+  "homepage": "https://github.com/JDMartinez1531/cc-v-2#readme",
+  "dependencies": {
+    "apollo-server": "^2.19.2",
+    "graphql": "^15.5.0",
+    "mongoose": "^5.11.15"
+  }
+}
